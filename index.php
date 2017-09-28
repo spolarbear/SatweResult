@@ -1,5 +1,7 @@
 <?php 
 
+// Yangxin
+// yeungxin@gmail.com
 $file_names = array(
 	"CPJ"=>"WGCPJ.OUT",
 	"ZX"=>"WZQ.OUT",
